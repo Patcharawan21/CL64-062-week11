@@ -12,6 +12,7 @@ namespace Hello
         {
             Console.WriteLine("Hello Computer Lab.");
             Console.WriteLine("This is new command add for exercise.");
+            Console.WriteLine("This could give conflict to branch.");
             Console.ReadKey();
         }
     }
